@@ -16,3 +16,7 @@ In the main screen, we display some information of user (Avatar, name) and the m
 Finally, user can see the todo detail in Detail Screen. Information describe here is about what it todo is and the status of it.
 
 <img width="200" alt="Screenshot 2022-11-19 at 10 25 18" src="https://user-images.githubusercontent.com/111112709/202832575-371833aa-af36-4562-9cb2-84961dcf7d49.png">
+
+Video: https://drive.google.com/file/d/16chXbLYw5oiyyNxf7H-blM1xbmDzVxAZ/view?usp=sharing or downloading file 'Demo TodoApp.mov' in repo
+
+Thank you! 
